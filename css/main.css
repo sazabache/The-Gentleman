@@ -1,0 +1,166 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	font-family: Verdana;
+}
+{
+	outline: 1px solid red;
+}
+li{
+	list-style-type:none; 
+}
+a{
+	text-decoration: none;
+}
+header{
+	height: 79px;
+}
+.top{
+
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+	        padding-bottom: 15px;
+	        padding-top: 15px;
+
+}
+
+.top,.footer{
+	background: #312d38; 
+}
+
+.logo{
+	font-size: 40px;
+	display: inline-block;	
+}
+.logo strong{
+	font-weight: 800;
+}
+.open-letter{
+	font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 100;
+}
+.logo2{
+	font-size: 30px;	
+}
+.logo2 span{
+	font-weight: bold;
+	font-size: 30px;
+}
+.section{
+	background-color: rgb(231, 231, 238);
+}
+
+.bg-gray{
+  background: #f0f0f0;
+}
+.pd{
+	padding: 40px;
+}
+.big{
+	font-size: 25px;
+	font-weight: 600;
+}
+.section1 img{
+	width: 100%;
+	padding-left: 3%;
+    padding-right: 3%;
+}
+
+.Rokkitt{
+	font-size: 3em;
+    font-weight: 500;
+    line-height: 0.85em;
+    font-family: 'Rokkitt', serif;
+}
+
+
+
+
+
+.redes div{
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	border: 1px dashed gray;
+	float: left;
+}
+.redes i{
+  font-size: 30px;
+  padding: 10px;
+  color: gray;
+  text-align: center;
+}
+hr{
+	border-top: 1px solid gray;
+}
+.des{
+	padding-left: 6% !important;
+	padding-bottom: 2% !important;
+}
+.three a {
+    color: #B7B6B6;
+    padding-right: 2%;
+}
+.three a:hover {
+    color: #888;
+}
+
+.latest{
+	    position: relative;
+}
+.vistas{
+	padding-right: 4% !important;
+    position: absolute !important;
+    top: 48% !important;
+    left: 50% !important;
+    font-size: 1.2em;
+}
+.galeria{
+	display: block;
+	    padding-left: 3.5%;
+    padding-right: 3.5%;
+    padding-bottom: 3%;
+}
+.galeria h4,.galeria .icon{
+	display: inline;
+}
+.galeria .icon{
+	float: right;
+}
+.project-encabezado{
+	display: block;
+}
+.follow img{
+	height: 145px;
+	width: 150px;
+	display: inline;
+}
+
+.abc-small{
+	font-size: 10px;
+}
+
+.mg0auto{
+	    left: 44%;
+    position: relative;
+    top: 10px;
+}
+.radius{
+	border-radius: 25%;
+}
+.bg-pink{
+	background: #D82C69;
+	padding: 0 4px; 
+}
+.pink{
+	color: #94294f;
+}
+
+.redes i:nth-child(2) {
+	padding: 7px 16px !important;
+}
+.purple{
+ font-size: 1.8em !important;
+}
